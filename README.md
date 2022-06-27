@@ -23,8 +23,6 @@
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -34,25 +32,25 @@ To get started, you need to go through a few steps:
 ### Installation
 
 2. Clone the repo
-   ```sh
-   git clone [https://github.com/github_username/repo_name.git](https://github.com/chainxvi/funding-nextjs.git)
-   ```
+```sh
+git clone [https://github.com/github_username/repo_name.git](https://github.com/chainxvi/funding-nextjs.git)
+```
 3. Install `node_modules`
-   ```sh
-   npm install
+```sh
+npm install
    
-   or
+or
    
-   yarn install
-   ```
+yarn install
+```
 4. Run the project
-  ```sh
-  npm run dev
+```sh
+npm run dev
   
-  or
+or
   
-  yarn dev
-  ```
+yarn dev
+```
 
 
 <!-- USAGE EXAMPLES -->
