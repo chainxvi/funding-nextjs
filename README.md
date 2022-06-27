@@ -5,7 +5,7 @@
     <img src="public/webfun.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Web3 Funcing</h3>
+<h3 align="center">Web3 Funding</h3>
 
   <p align="center">
     Web3 Funding is a Nextjs website to interact with a smart contract. Fund, withdraw and get balance.
