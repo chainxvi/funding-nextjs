@@ -1,0 +1,28 @@
+.form {
+  margin-top: 64px;
+  display: grid;
+  justify-content: center;
+  
+  .fundContainer {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    width: 380px;
+    margin-bottom: 20px;
+  }
+  .fundInput {
+    margin-right: 10px;
+    flex-grow: 1;
+  }
+  .error, .success {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+  }
+  .error {
+    color: red;
+  }
+  .success {
+    color: green;
+  }
+}
