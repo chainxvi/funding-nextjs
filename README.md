@@ -1,34 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/chainxvi/funding-nextjs">
+    <img src="public/webfun.svg" alt="Logo" width="80" height="80">
+  </a>
 
+<h3 align="center">Web3 Funcing</h3>
+
+  <p align="center">
+    Web3 Funding is a Nextjs website to interact with a smart contract. Fund, withdraw and get balance.
+    <br />
+    <br />
+    <a href="https://twitter.com/chain_xvi">Chat with me</a>
+  </p>
+</div>
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+![Web3 Funding Screenshot](https://user-images.githubusercontent.com/108198276/176025705-4dae3e28-868b-4a3f-aa3c-e81b07f29769.png)
+
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+<!-- GETTING STARTED -->
 ## Getting Started
 
-First, run the development server:
+To get started, you need to go through a few steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Installation
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Clone the repo
+   ```sh
+   git clone [https://github.com/github_username/repo_name.git](https://github.com/chainxvi/funding-nextjs.git)
+   ```
+3. Install `node_modules`
+   ```sh
+   npm install
+   
+   or
+   
+   yarn install
+   ```
+4. Run the project
+  ```sh
+  npm run dev
+  
+  or
+  
+  yarn dev
+  ```
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<!-- USAGE EXAMPLES -->
+## Contribution
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+To contribute, all you need to do is push a pull request and tag other contributors as reviewers. That's all :)
 
-## Learn More
+_To chat with me, feel free: [Chain](https://twitter.com/chain_xvi)_
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Thank you :)
